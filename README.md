@@ -1,3 +1,3 @@
 # hello-world
 First github program
-Adult lraning his first programming steps
+Adult learning his first programming steps
